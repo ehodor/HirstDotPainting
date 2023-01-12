@@ -1,3 +1,5 @@
+# Created by Emma Hodor on 1/11/2023
+
 import colorgram
 from random import choice
 import turtle
